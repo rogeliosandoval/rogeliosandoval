@@ -1,5 +1,5 @@
 ### Hi there 👋
-Love to spend time with my dogs, passionate about learning different languages and love to make music in my free time!
+Love to spend time with my dogs and proud step father to Jolie, passionate about learning different languages and love to make music in my free time!
 - 🌱 I’m currently learning how to code
 - 📫 How to reach me: rogelio.g.sandoval@gmail.com
 
