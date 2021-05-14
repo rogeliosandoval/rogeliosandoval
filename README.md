@@ -1,7 +1,11 @@
-### Hi there 👋
-Love to spend time with my dogs and proud step father to Jolie, passionate about learning different languages and love to make music in my free time!
-- 🌱 I’m currently learning how to code
-- 📫 How to reach me: rogelio.g.sandoval@gmail.com
+### Hi there, my name is Roger!👋
+
+- 💻 I am studying web development at CodeUp!
+- 🎶 I love to make music in my spare time
+- 🗣 Passion for learning all kinds of langauges!
+- 🐕 I have an african basenji mix and a dogue de bordeaux that looks sad all of the time
+- ⛰ Love being outdoors!
+- 📫 Always feel free to reach out to me here: rogelio.g.sandoval@gmail.com
 
 <!--
 **rogeliosandoval/rogeliosandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
