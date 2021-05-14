@@ -5,7 +5,7 @@
 - 🗣 Passion for learning all kinds of langauges!
 - 🐕 I have an african basenji mix and a dogue de bordeaux that looks sad all of the time
 - ⛰ Love being outdoors!
-- 📫 Always feel free to reach out to me here: rogelio.g.sandoval@gmail.com
+- 📫 Feel free to reach out to me here rogelio.g.sandoval@gmail.com
 
 <!--
 **rogeliosandoval/rogeliosandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
