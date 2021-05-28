@@ -3,6 +3,7 @@
 - 💻 I am studying web development at CodeUp!
 - 🎶 I love to make music in my spare time
 - 🗣 Passion for learning all kinds of langauges!
+- 🐦 Proud step-father to an african grey parrot
 - 🐕 I have an african basenji mix and a dogue de bordeaux that looks sad all of the time
 - ⛰ Love being outdoors!
 - 📫 Feel free to reach out to me here rogelio.g.sandoval@gmail.com
