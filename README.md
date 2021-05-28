@@ -1,4 +1,4 @@
-### Hi there, my name is Roger!👋
+### Hi there, my name is Roger! 👋
 
 - 💻 I am studying web development at CodeUp!
 - 🎶 I love to make music in my spare time
