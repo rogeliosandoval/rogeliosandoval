@@ -1,3 +1,5 @@
+<img src="Github Banner.jpg">
+
 ### Hi there, my name is Roger! 👋
 
 - 💻 I am studying web development at CodeUp!
