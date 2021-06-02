@@ -9,7 +9,7 @@
 - 🐕 I have an african basenji mix and a dogue de bordeaux that looks sad all of the time
 - ⛰ Love being outdoors!
 - 📫 Feel free to reach out to me here rogelio.g.sandoval@gmail.com
-- 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeliosandoval&show_icons=true&theme=tokyonight)
 <br>
 <br>
