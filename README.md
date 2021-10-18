@@ -2,7 +2,7 @@
 
 ### Hi there, my name is Roger! 👋
 
-- 💻 I am studying web development at CodeUp!
+- 💻 I am currently studying web development!
 - 🎶 I love to make music in my spare time
 - 🗣 Passion for learning all kinds of langauges!
 - 🐕 I have an african basenji mix and a dogue de bordeaux that looks sad all of the time
