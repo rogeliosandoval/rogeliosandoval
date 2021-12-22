@@ -7,7 +7,7 @@
 - 🗣 Passion for learning all kinds of langauges!
 - 🐕 I have an african basenji mix and a dogue de bordeaux that looks sad all of the time
 - ⛰ Love being outdoors!
-- 📫 Feel free to reach out to me here rogelio.g.sandoval@gmail.com
+- 📫 Feel free to reach out to me here rogelio.g.sandoval@gmail.com or check out my <a href="www.linkedin.com/in/rogeliosandoval">Linkedin</a>!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliosandoval&layout=compact)](https://github.com/rogeliosandoval/github-readme-stats) <img src="https://wearetribu.com/wp-content/uploads/2019/01/codeup-duck-min.png">
 <br>
