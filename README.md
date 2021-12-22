@@ -1,4 +1,4 @@
-<img src="Github Banner.jpg">
+<img src="Github Banner 2.jpg">
 
 ### Hi there, my name is Roger! 👋
 
