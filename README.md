@@ -1,5 +1,3 @@
-<img src="Github Banner 2.jpg">
-
 ### Hi there, my name is Roger! 👋
 
 - 💻 I am a front-end developer!
