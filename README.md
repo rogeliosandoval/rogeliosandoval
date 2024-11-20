@@ -8,3 +8,5 @@
 - 📫 Feel free to reach out to me here rogelio.g.sandoval@gmail.com or check out my [Linkedin]!
 
 [Linkedin]: https://www.linkedin.com/in/rogeliosandoval/
+
+<img src="/angular-icon.png" height="50" width="50"><strong>ngular is awesome!</strong> 😎
