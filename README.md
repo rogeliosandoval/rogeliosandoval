@@ -1,12 +1,1 @@
-### Hey! I'm Roger! 👋
-
-- 💻 Front-End Developer & Web Designer
-- 🎶 Love to make music in my spare time
-- 🗣 Passion for learning all kinds of langauges
-- 🐕 Dog kind of guy
-- ⛰ Love being outdoors
-- 📫 Feel free to reach out to me here rogelio.g.sandoval@gmail.com or check out my [Linkedin]!
-
-[Linkedin]: https://www.linkedin.com/in/rogeliosandoval/
-
-<img src="/angular-icon.png" height="50" width="50"><strong>ngular is awesome!</strong> 😎
+<img src="/angular-icon.png" height="25" width="25"><strong>ngular is awesome!</strong> 😎
